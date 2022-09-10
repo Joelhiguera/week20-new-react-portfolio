@@ -14,7 +14,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 ## LINKS
 Github Repo: https://github.com/Joelhiguera/Week20-React-Portfolio
 
-Github Deployment
+Github Deployment: https://joelhiguera.github.io/week20-new-react-portfolio/
 
 
 # SCREENSHOTS 
